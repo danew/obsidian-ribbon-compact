@@ -12,7 +12,7 @@ if you want to view the source visit the plugins github repository
 */
 `;
 
-const dir = '/Users/danewilson/Library/Mobile Documents/iCloud~md~obsidian/Documents/obsidian/.obsidian/plugins/compact';
+const dir = 'dist';
 
 export default {
   input: 'main.ts',
